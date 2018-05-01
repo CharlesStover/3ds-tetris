@@ -1,0 +1,64 @@
+a {
+	color : #00c0c0;
+	text-decoration : none;
+}
+
+body {
+	font-size : 10px;
+	text-align : right;
+}
+
+body, h1, h2, p {
+	margin : 0;
+	padding : 0;
+}
+
+body > div {
+	height : 450px;
+	margin : 0 auto;
+	position : relative;
+	width : 320px;
+}
+
+code {
+	font-family : monospace;
+	font-style : normal;
+}
+
+h1 {
+	font-size : 12px;
+}
+
+h1, h2 {
+	font-family : "Verdana", sans-serif;
+}
+
+h2 {
+	font-size : 11px;
+	line-height : 33px;
+}
+
+#high-score, #score {
+	font-size : 12px;
+}
+
+#next {
+	top : 0;
+}
+
+#next, #tetris {
+	left : 0;
+	padding : 6pt;
+	position : absolute;
+	text-align : center;
+	width : 94px;
+}
+
+p {
+	text-align : justify;
+	text-indent : 12pt;
+}
+
+#tetris {
+	top : 210px;
+}
