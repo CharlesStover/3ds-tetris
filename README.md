@@ -7,4 +7,4 @@ This is a from-scratch clone of _Tetris_, made specifically to be compatible wit
 * JavaScript - vanilla
 
 ## Demo
-* [GitHub Pages](https://gamingmedley.github.io/3ds-tetris/#tetris)
+* [GitHub Pages](https://charlesstover.github.io/3ds-tetris/#tetris)
